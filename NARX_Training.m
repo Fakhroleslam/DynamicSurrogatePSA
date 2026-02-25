@@ -1,4 +1,3 @@
-
 clc
 clear all
 close all
@@ -92,5 +91,4 @@ subplot(3,1,3)
 bar(Cnx)
 ylabel({'Absolute error'});
 xlabel({'Cycle Number'});
-set(gca,'fontSize',13)
-
+set(gca,'fontSize',13);
