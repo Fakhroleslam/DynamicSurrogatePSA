@@ -4,7 +4,7 @@ clear all
 close all
 
 % Load timeseries data with two inputs and one target
-load prepared_data.mat
+load NARX_prepared_data.mat
 train_size=720;
 
 % P means adsoption pressure;
