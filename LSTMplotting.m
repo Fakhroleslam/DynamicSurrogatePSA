@@ -2,7 +2,7 @@ clear
 clc
 
 % Load time series data with two inputs and one target
-load prepared_data.mat
+load LSTM_prepared_data.mat
 
 % Load Network
 load Trained_LSTM_network.mat
