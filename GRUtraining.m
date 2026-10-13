@@ -2,7 +2,7 @@ clear
 clc
 
 % Load time series data with two inputs and one target
-load prepared_data.mat
+load GRU_prepared_data.mat
 
 % P means adsoption pressure;
 % timead means adsorption time;
